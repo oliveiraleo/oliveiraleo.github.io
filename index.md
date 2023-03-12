@@ -16,4 +16,8 @@ This page is a work in progress, from time to time I will update it. I hope anyt
 
 See you around!
 
+<hr>
+
+<p style="text-align: center;"><a href="https://github.com/oliveiraleo">My GitHub Profile Page</a> | <a href="https://github.com/oliveiraleo/oliveiraleo.github.io">Source Code</a> | <a href="./index-pt.md">Read this page in Portuguese/Portugês</a></p>
+
 <p style="text-align: center;">&#127279; 2017 - 2023</p>
