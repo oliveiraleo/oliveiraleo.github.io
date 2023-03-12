@@ -1,4 +1,4 @@
-# <p style="text-align: center;">Welcome to my GitHub homepage!</p>
+# <center>Welcome to my GitHub homepage!<center>
 
 This is a web page that gathers and lists some public work on which I've taken part in.
 
