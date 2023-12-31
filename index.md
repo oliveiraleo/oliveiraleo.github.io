@@ -22,6 +22,8 @@ This is a web page that gathers and lists some public work on which I've taken p
 
 \- An one hour long introductory talk (entitled "They are watching us") about government mass surveillance and the Edward Snowden's revelations (currently available at [Odysee](https://odysee.com/@leo_http:5/they:9d) and [LBRY](lbry://@leo_http:5/they:9d));
 
+\- Material in a [slideshow format](https://gitlab.com/oliveiraleo/privacytalk2023) regarding Edward Snowden's revelations containing several sources of information and some studies too;
+
 ## LoRa/LoRaWAN
 
 \- A [repository](https://github.com/oliveiraleo/LoRa) containing materials regarding the LoRa radio frequency transmission technology and LoRaWAN network protocol;
@@ -32,12 +34,20 @@ This is a web page that gathers and lists some public work on which I've taken p
 
 \- A publicly avaliable LoRa [dataset](https://github.com/oliveiraleo/LoRa-RSSI-dataset-outdoor) containing RSSI measurements from five surveys in different conditions.
 
+## Contact
+
+If you want to talk about my research or source code, feel free to contact me on Telegram (leo_http) or Matrix (leo_http:matrix.org)
+
+## Notice
+
+Access the source code of this page on [this repository here](https://github.com/oliveiraleo/oliveiraleo.github.io)
+
 This page is a work in progress, from time to time I will update it. I hope anything here helps you.
 
 See you around!
 
 <hr>
 
-<p style="text-align: center;"><a href="https://github.com/oliveiraleo">My GitHub Profile Page</a> | <a href="https://github.com/oliveiraleo/oliveiraleo.github.io">Source Code</a></p>
+<p style="text-align: center;"><a href="https://github.com/oliveiraleo">GitHub Profile Page</a> | <a href="https://gitlab.com/oliveiraleo">GitLab Profile Page</a> | <a href="http://lattes.cnpq.br/7749238753232176">Lattes CV</a> (<a href="https://en.wikipedia.org/wiki/Lattes_Platform">?</a>) | <a href="https://orcid.org/0000-0003-0519-0934">ORCID</a></p>
 
-<p style="text-align: center;">&#127279; 2017 - 2023</p>
+<p style="text-align: center;">&#127279; 2017 - 2024</p>
